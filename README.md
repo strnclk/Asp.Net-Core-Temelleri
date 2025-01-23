@@ -18,7 +18,7 @@ CRUD (Create, Read, Update, Delete), veritabanı işlemlerinin temel taşların�
 ### FromBody Kullanımı
 ASP.NET Core'da `FromBody` gelen HTTP isteklerinin gövdesinden (body) verileri almanızı sağlar. Bu başlık altında `FromBody` kullanımıyla ilgili detaylar örneklerle ele alınmıştır.
 
-📖 [FromBody dokümanına ulaşmak için tıklayın.](./docs/frombody.md)
+📖 [FromBody dokümanına ulaşmak için tıklayın.](./docs/docs/frombody.md)
 
 ---
 
